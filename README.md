@@ -1,4 +1,4 @@
-# Bulk Image Watermarker
+# Image Watermark Generator
 
 A professional Windows desktop application for bulk image watermarking. Built with Electron, React, and Python (FastAPI + Pillow).
 
